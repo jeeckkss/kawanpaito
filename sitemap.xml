@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Halaman Utama (Landing Page) -->
+  <url>
+    <loc>https://jeeckkss.github.io/kawanpaito</loc> 
+    <lastmod>2025-04-18</lastmod> 
+    <changefreq>daily</changefreq> 
+    <priority>1.0</priority> 
+  </url>
+
+  <!-- Halaman Live Chat -->
+  <url>
+    <loc>https://fx8b.short.gy/Adminpaito</loc>
+    <lastmod>2025-04-18</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Halaman Prediksi Jitu -->
+  <url>
+    <loc>https://www.facebook.com/profile.php?id=61573862892364</loc> 
+    <lastmod>2025-04-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Halaman Daftar Sekarang -->
+  <url>
+    <loc>https://fx8b.short.gy/Adminpaito</loc>
+    <lastmod>2025-04-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>
